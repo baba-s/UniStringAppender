@@ -1,6 +1,6 @@
 ﻿# Uni String Appender
 
-* StringBuilderでコレクション初期化子を使用できるようにするクラス
+StringBuilderでコレクション初期化子を使用できるようにするクラス
 
 ## 使用例
 
