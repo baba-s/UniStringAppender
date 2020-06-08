@@ -3,7 +3,7 @@ using System.Collections;
 using System.Text;
 using JetBrains.Annotations;
 
-namespace UniStringAppender
+namespace Kogane
 {
 	/// <summary>
 	/// 可変型の文字列を管理するクラス

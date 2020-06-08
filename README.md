@@ -5,7 +5,7 @@
 ## 使用例
 
 ```cs
-using UniStringAppender;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour
